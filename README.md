@@ -52,18 +52,6 @@ print(("Bienvenue sur mon GitHub, je suis %s"):format(Lucifer.role))
   <img src="https://img.shields.io/badge/NUI-FF2E63?style=for-the-badge&logoColor=white" />
 </p>
 
----
-
-## 🚀 Projets en vedette
-
-| Projet | Description | Stack |
-|:--|:--|:--|
-| 🎬 **[L.M Studio](https://github.com/Lucifer1909/l.m-studio)** | *(ajoute une description de ton projet ici)* | `TypeScript` |
-| 🤖 **FiveM AI Skills** | Skills IA pour générer et relire des scripts FiveM | `Markdown` `Lua` |
-| 📋 **Gestion Panel** | Panel web de gestion pour serveur RP | `React` `Node` `MySQL` |
-| 🎨 **NUI Kit** | Composants d'interface modernes pour FiveM | `Vue` `Tailwind` |
-
-> 💡 *Remplace ces lignes par tes vrais repos, avec un lien vers chacun.*
 
 ---
 
@@ -103,7 +91,7 @@ print(("Bienvenue sur mon GitHub, je suis %s"):format(Lucifer.role))
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="https://discord.com/users/TON_ID_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/users/lucifers1909"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://TON_SITE"><img src="https://img.shields.io/badge/Portfolio-FF2E63?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://TON_TEBEX.tebex.io"><img src="https://img.shields.io/badge/Tebex-Boutique-7B2FF7?style=for-the-badge&logoColor=white" /></a>
 </p>
